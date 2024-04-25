@@ -7,7 +7,7 @@ const cors = require('cors');
 const app = express();
 // your mongoDB Cloud URL
 const dbCloudUrl =
-    'mongodb+srv://saguidlovely:123456@cluster0.41uljuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+    'mongodb+srv://saguidlovely:12345@cluster0.41uljuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 // your mongoDB Cloud URL
 const dbLocalUrl = 'mongodb://localhost:27017/serverless-api-saguid';
 
